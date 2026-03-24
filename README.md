@@ -1,5 +1,3 @@
-# sidebar-menu-project
-Photography sidebar menu using HTML &amp; CSS with toggle effect.
 # 📸 Sidebar Menu Project
 
 This is a photography-themed sidebar navigation menu built using HTML and CSS. It demonstrates a toggle effect using pure CSS without JavaScript.
